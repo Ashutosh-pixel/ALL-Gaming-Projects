@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - dead
+  - player
+  - 1
+  - coin
+  - faint
+  - Ground
+  - ladder
+  - pipe
+  - Ladder
+  - chest
+  - key
+  - lever
+  - bomb
+  - bbomb
+  - trigger
+  - faint2
+  - Box
+  - spring
+  - blade
+  - Door
+  - flag
+  - checkpoint
+  - water
+  - checkpoint2
+  - larva
+  - checkpoint1
+  - chainenemie
+  - dead1
+  - invisible
+  - checkpoint3
+  - hook
+  - live
+  - Lives
+  - k
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ladder
+  - Player
+  - Stone
+  - 0
+  - MAC
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

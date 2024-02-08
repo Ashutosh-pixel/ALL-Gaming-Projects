@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1db9a8fe-c8f6-40a8-a1c8-44303f842ba5" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Level 1/movement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Level 2/Coin.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Level 2/CharacterMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Level 1/Spider.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Level 2/pendulum_effect.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Level 2/Enemiepetrol.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Level 1/charactermovement.cs.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Level 1/charactermovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Level 2/Hinge.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Script/Test.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Sinewave.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Spider.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/test.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Level 2/CharacterAnimation.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Level 2/Circle.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Level 2/Coin.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Level 2/Enemie petrol.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Level 2/Enemiepetrol.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Level 2/CharacterMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Level 2/Hinge.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Level 2/pendulum_effect.cs" />
+        <option value="$APPLICATION_CONFIG_DIR$/rider64.exe.vmoptions" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eVh2OAx9WC1CI6ranx58PXF3bb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="ToolWindowVersion Control.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor &amp; Play">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" pid="7604">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" value="7604" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Asus\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1db9a8fe-c8f6-40a8-a1c8-44303f842ba5" name="Default Changelist" comment="" />
+      <created>1594412466995</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594412466995</updated>
+      <workItem from="1594412484660" duration="294000" />
+      <workItem from="1594412820836" duration="314000" />
+      <workItem from="1594413163912" duration="326000" />
+      <workItem from="1594413571156" duration="314000" />
+      <workItem from="1594416376607" duration="922000" />
+      <workItem from="1594417327836" duration="53000" />
+      <workItem from="1594417432410" duration="114000" />
+      <workItem from="1594417575596" duration="704000" />
+      <workItem from="1594418939088" duration="772000" />
+      <workItem from="1594419754060" duration="61000" />
+      <workItem from="1594503083908" duration="3582000" />
+      <workItem from="1594512774037" duration="2910000" />
+      <workItem from="1594535637275" duration="2611000" />
+      <workItem from="1595697523350" duration="277000" />
+      <workItem from="1595699349086" duration="756000" />
+      <workItem from="1595700137628" duration="309000" />
+      <workItem from="1595700481417" duration="202000" />
+      <workItem from="1595700738233" duration="193000" />
+      <workItem from="1595701041383" duration="96000" />
+      <workItem from="1595701170376" duration="515000" />
+      <workItem from="1595701728289" duration="998000" />
+      <workItem from="1595703537834" duration="308000" />
+      <workItem from="1595747928143" duration="942000" />
+      <workItem from="1595759173848" duration="24000" />
+      <workItem from="1595759227686" duration="56000" />
+      <workItem from="1595759322035" duration="19000" />
+      <workItem from="1595759397338" duration="809000" />
+      <workItem from="1595760425026" duration="2347000" />
+      <workItem from="1595762935961" duration="83000" />
+      <workItem from="1595763080004" duration="52000" />
+      <workItem from="1595763185422" duration="18000" />
+      <workItem from="1595772943814" duration="131000" />
+      <workItem from="1595832590657" duration="2773000" />
+      <workItem from="1595839396836" duration="134000" />
+      <workItem from="1595839609507" duration="279000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="67" key="#Notifications" />
+    <state x="361" y="67" key="#Notifications/1920.1080" />
+    <state x="449" y="147" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" />
+    <state x="449" y="147" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/1920.1080" />
+    <state x="221" y="0" key="SettingsEditor" />
+    <state x="221" y="0" key="SettingsEditor/1920.1080" />
+    <state x="412" y="204" width="715" height="307" key="org.intellij.images.editor.actions.BackgroundImageDialog" />
+    <state x="412" y="204" width="715" height="307" key="org.intellij.images.editor.actions.BackgroundImageDialog/1920.1080" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
